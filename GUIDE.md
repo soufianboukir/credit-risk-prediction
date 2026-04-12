@@ -195,8 +195,8 @@ Train and compare the following models:
 
 | Error Type | Meaning | Impact |
 |---|---|---|
-| **False Negative** | Predicted safe, actually defaults | ⚠️ Dangerous — financial loss |
-| **False Positive** | Predicted risky, actually safe | 💸 Lost revenue opportunity |
+| **False Negative** | Predicted safe, actually defaults | Dangerous — financial loss |
+| **False Positive** | Predicted risky, actually safe | Lost revenue opportunity |
 
 **What to investigate:**
 
