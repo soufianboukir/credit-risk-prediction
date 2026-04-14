@@ -130,9 +130,19 @@ The following models were implemented and evaluated:
 
 ## Running the App
 
-### Install dependencies
+### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
+
+### 2. Run All notebooks inside `notebooks/` folder
+
+### 3. a folder named `/models` will be generated at `/notebooks`, Move it to root directory
+
+### 4. Run this command and copy past the output ip address into your browser
+
+```bash
+streamlit run app.py
 ```
 
 ### Usage
