@@ -3,6 +3,8 @@
 A complete machine learning pipeline for predicting loan default risk using tabular financial data.  
 The project covers data preprocessing, model training, evaluation, and deployment through a simple Streamlit application.
 
+<img width="2048" height="902" alt="Screenshot from 2026-04-28 23-49-19" src="https://github.com/user-attachments/assets/c492cf12-3a40-489c-87b8-70ddcb355104" />
+
 ---
 
 ## Project Overview
