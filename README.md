@@ -158,4 +158,4 @@ Default probability
 Key contributing factors
 ```
 
-developed with ❤️ by **soufian**.
+built with ❤️ by **soufian**.
